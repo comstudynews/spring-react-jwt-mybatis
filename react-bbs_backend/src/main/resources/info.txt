@@ -1,0 +1,9 @@
+
+Spring Boot : 3.2.2
+Spring Security : 
+JWT : 
+
+JPA : 
+H2 DB : 
+
+
